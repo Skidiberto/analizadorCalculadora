@@ -14,3 +14,5 @@ Integrantes de equipo:
 Garcia Azzua Jorge Roberto
 Cruz Ramirez Moises
 Ruiz Torres Roberto Manuel
+
+nota importante: si desea correr el programa de visualización el comando es "java -cp antlr-4.13.1-complete.jar:. Calculadora" para linux y "java -cp "antlr-4.13.1-complete.jar;." Calculadora" para windows.
